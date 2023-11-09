@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Raj1302&icon=8&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌱 I’m currently learning React and Next JS<br>📫 How to reach me - rajsoni486a@gmail.com<br>
+🌱 I’m currently learning React and Next JS<br>🧑🏻‍💻 Working on MERN Stack project<br>📫 How to reach me - rajsoni486a@gmail.com<br>
 
 
 ## 🌐 Socials:
